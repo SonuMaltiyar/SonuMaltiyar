@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SonuMaltiyar
-- 👀 I’m interested in  Web D
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in  Web Devdevlopment
+- 🌱 I’m currently learning Frontend web D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
   linkedin - https://www.linkedin.com/feed/
