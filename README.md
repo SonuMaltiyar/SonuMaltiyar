@@ -1,27 +1,70 @@
-👋 Hi, I’m Sonu Maltiyar, a passionate UI/UX Designer specializing in creating intuitive and visually appealing digital experiences. I focus on user-centered design, wireframing, prototyping, and branding to enhance usability and aesthetics.
+<h1 align="center">Hi, I'm Sonu Maltiyar 👋</h1>
 
-💡 What I Do:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77F00&center=true&vCenter=true&lines=UI%2FUX+Designer+%7C+Branding+Specialist;Social+Media+Designer+%7C+Creative+Thinker;Crafting+Seamless+User+Experiences" />
+</p>
 
-🎨 UI/UX Design (Web & Mobile)
-🏷️ Branding & Identity Design
-📱 Social Media Graphics & Templates
-📊 Wireframing & Prototyping
-📄 Print & Packaging Design
-🖥️ Website UI Design (Figma)
+---
 
-💼 Work Experience:
-🚀 UI/UX Designer | Brainygyes Technology Pvt. Ltd.
+## 🚀 About Me  
 
-📌 Skills & Tools:
+🎨 **UI/UX Designer** | **Branding Specialist** | **Social Media Designer**  
+💡 Passionate about crafting seamless and visually appealing digital experiences!  
 
-Design Tools: Figma, Adobe Photoshop, Adobe Illustrator, Adobe Express
-UX Skills: User Research, Wireframing, Prototyping, Interaction Design
-Branding: Logo & Brand Identity, Marketing Graphics
-Frontend Knowledge: HTML, CSS, JavaScript.
+- 🏷️ **Branding & Identity Design**  
+- 🎨 **UI/UX Design (Web & Mobile)**  
+- 📱 **Social Media Graphics & Templates**  
+- 📊 **Wireframing & Prototyping**  
+- 📄 **Print & Packaging Design**  
 
-📂 Portfolio & Work Samples:
-https://www.behance.net/sonumaltiyar07
+---
 
-📫 Let's Connect!
-www.linkedin.com/in/sonu-maltiyar
-sonu.maltiyar.004@gmail.com
+## 💼 Work Experience  
+
+🔹 **UI/UX Designer @ Brainygyes Technology Pvt. Ltd.**  
+
+🔹 Previously worked on **branding, UI design, and social media projects** for small businesses and startups.  
+
+---
+
+## 🛠 Skills & Tools  
+
+### **👨‍🎨 Design Tools:**  
+- 🎨 **Figma**  
+- ✏️ **Adobe Photoshop, Adobe Illustrator, Adobe Express**  
+- 🖌️ **Canva**  
+- 🛠️ **Framer (Interactive Prototyping)**  
+
+### **📊 UX & Research:**  
+- 📍 **Wireframing & Prototyping**  
+- 📑 **User Research & Interaction Design**  
+- 📈 **UI/UX Auditing**  
+
+### **🔗 Frontend Knowledge (For Better Handoff):**  
+- 🌐 **HTML, CSS, JavaScript** *(Enhances communication with developers and ensures smooth handoff)*  
+
+---
+
+## 📂 Portfolio & Work Samples  
+
+🔗 **Behance:** [https://www.behance.net/sonumaltiyar07](https://www.behance.net/sonumaltiyar07)  
+
+---
+
+## 📫 Let's Connect!  
+
+📧 **Email:** [sonu.maltiyar.004@gmail.com](mailto:sonu.maltiyar.004@gmail.com)  
+💼 **LinkedIn:** [www.linkedin.com/in/sonu-maltiyar](http://www.linkedin.com/in/sonu-maltiyar)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SonuMaltiyar&show_icons=true&theme=radical" />
+</p>
+
+---
+
+⭐ **Explore my repositories and projects!**  
+
