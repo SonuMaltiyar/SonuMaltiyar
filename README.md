@@ -1,10 +1,10 @@
-<!-- 🚀 UI/UX DESIGNER | CREATIVE PORTFOLIO -->
+<!-- 🚀 SONU MALTIYAR | CREATIVE UI/UX DESIGNER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23F77F00&center=true&vCenter=true&width=600&height=60&lines=👋+Hey+there!+I'm+Sonu+Maltiyar;UI%2FUX+Designer+|+Creative+Thinker;Branding+Strategist+|+Visual+Storyteller;Turning+Ideas+Into+Pixel+Perfect+Designs!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23F77F00&center=true&vCenter=true&width=600&height=60&lines=👋+Hello,+I'm+Sonu+Maltiyar!;🚀+UI/UX+Designer+|+Branding+Specialist;🎨+Turning+Ideas+into+Stunning+Experiences!">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ov9k9AyzTi3mVFuXq/giphy.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/Designer.gif" width="700"/>
 </p>
 
 ---
@@ -15,15 +15,15 @@
   <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="300"/>
 </p>
 
-🎨 **UI/UX Designer** | **Branding Specialist** | **Social Media Designer**  
-💡 Passionate about **creating intuitive, modern, and visually appealing** user experiences!  
+🎨 **UI/UX Designer** | **Branding Enthusiast** | **Creative Storyteller**  
+💡 Passionate about designing pixel-perfect, smooth, and **user-friendly** experiences!  
 
-🔥 **I specialize in:**  
-✔ **Branding & Identity Design**  
-✔ **UI/UX Design (Web & Mobile)**  
-✔ **Social Media Graphics & Templates**  
-✔ **Wireframing & Prototyping**  
-✔ **Print & Packaging Design**  
+**💻 What I Love Doing:**  
+🔹 **Branding & Identity Design**  
+🔹 **UI/UX Design (Web & Mobile)**  
+🔹 **Social Media Graphics & Templates**  
+🔹 **Wireframing & Prototyping**  
+🔹 **Print & Packaging Design**  
 
 ---
 
@@ -34,7 +34,7 @@
 </p>
 
 📌 **UI/UX Designer @ Brainygyes Technology Pvt. Ltd.**  
-💼 **Worked on branding, UI/UX, and social media projects** for small businesses and startups.  
+💼 Worked on **branding, UI design, and social media** projects for small businesses and startups.  
 
 ---
 
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-🖥️ **Understanding front-end tech helps me communicate better with developers & ensure smooth handoff!**  
+💻 **Understanding frontend tech helps me communicate better with developers & ensure smooth handoff!**  
 
 ---
 
@@ -74,6 +74,9 @@
 <p align="center">
   <a href="https://www.behance.net/sonumaltiyar07">
     <img src="https://img.shields.io/badge/🔗%20View%20Portfolio%20on%20Behance-%230077B5.svg?style=for-the-badge" />
+  </a>
+  <a href="https://dribbble.com/sonumaltiyar07">
+    <img src="https://img.shields.io/badge/🎨%20Check%20My%20Dribbble%20Shots-%23EA4C89.svg?style=for-the-badge" />
   </a>
 </p>
 
