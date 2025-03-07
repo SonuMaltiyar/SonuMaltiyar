@@ -1,9 +1,10 @@
+<!-- 🚀 UI/UX DESIGNER | CREATIVE PORTFOLIO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77F00&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Sonu+Maltiyar+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Brand+Strategist;Creative+Thinker+%7C+Visual+Storyteller;Crafting+Seamless+User+Experiences">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%23F77F00&center=true&vCenter=true&width=600&height=60&lines=👋+Hey+there!+I'm+Sonu+Maltiyar;UI%2FUX+Designer+|+Creative+Thinker;Branding+Strategist+|+Visual+Storyteller;Turning+Ideas+Into+Pixel+Perfect+Designs!">
 </h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8aaf1c490ac2090.gif" width="600"/>
+  <img src="https://media.giphy.com/media/3ov9k9AyzTi3mVFuXq/giphy.gif" width="600"/>
 </p>
 
 ---
@@ -15,9 +16,9 @@
 </p>
 
 🎨 **UI/UX Designer** | **Branding Specialist** | **Social Media Designer**  
-💡 Passionate about crafting **seamless and stunning** user experiences that enhance digital interactions!  
+💡 Passionate about **creating intuitive, modern, and visually appealing** user experiences!  
 
-### **🔹 My Expertise:**  
+🔥 **I specialize in:**  
 ✔ **Branding & Identity Design**  
 ✔ **UI/UX Design (Web & Mobile)**  
 ✔ **Social Media Graphics & Templates**  
@@ -33,7 +34,7 @@
 </p>
 
 📌 **UI/UX Designer @ Brainygyes Technology Pvt. Ltd.**  
-💼 Previously worked on **branding, UI design, and social media projects** for small businesses and startups.  
+💼 **Worked on branding, UI/UX, and social media projects** for small businesses and startups.  
 
 ---
 
@@ -48,13 +49,23 @@
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white">
 </p>
 
-### **📊 UX & Research:**  
-- 🎯 **Wireframing & Prototyping** *(From low to high fidelity)*  
-- 🔍 **User Research & Interaction Design**  
-- 🧐 **UI/UX Auditing** *(Solving usability issues like a detective 🕵️‍♂️)*  
+<h3 align="center">📊 UX & Research</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+</p>
 
-### **🔗 Frontend Knowledge (For Better Handoff):**  
-- 🌐 **HTML, CSS, JavaScript** *(Bridging design with development smoothly 💻✨)*  
+- 🎯 **Wireframing & Prototyping** *(Low to High Fidelity)*  
+- 🔍 **User Research & Interaction Design** *(Data-driven insights for great UX!)*  
+- 🧐 **UI/UX Auditing** *(Fixing usability issues like a detective 🕵️‍♂️)*  
+
+<h3 align="center">🔗 Frontend Knowledge (For Better Handoff)</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+🖥️ **Understanding front-end tech helps me communicate better with developers & ensure smooth handoff!**  
 
 ---
 
@@ -93,10 +104,10 @@
 <h2 align="center">🎨 Fun Fact</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
-🌟 **"Good design is like a refrigerator—when it works, no one notices. When it doesn’t, it stinks!"** 🚀  
+🌟 **"A great UI/UX design is like a joke—if you have to explain it, it’s not that great!"** 🚀  
 
 ---
 
