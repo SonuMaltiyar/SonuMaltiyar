@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🚀 About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="300"/>
@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="center">💼 Work Experience</h2>
+## 💼 Work Experience
 
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400"/>
@@ -38,7 +38,7 @@
 
 ---
 
-<h2 align="center">🛠 Skills & Tools</h2>
+## 🛠 Skills & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white">
@@ -69,7 +69,7 @@
 
 ---
 
-<h2 align="center">📂 Portfolio & Work Samples</h2>
+## 📂 Portfolio & Work Samples
 
 <p align="center">
   <a href="https://www.behance.net/sonumaltiyar07">
@@ -78,11 +78,14 @@
   <a href="https://dribbble.com/sonumaltiyar07">
     <img src="https://img.shields.io/badge/🎨%20Check%20My%20Dribbble%20Shots-%23EA4C89.svg?style=for-the-badge" />
   </a>
+  <a href="https://drive.google.com/file/d/1PeVWCnEmMg9YMxJyDJCg4LUzqJuIam2O/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/📂%20Download%20Portfolio%20PDF-%23FFAA00.svg?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">📫 Let's Connect!</h2>
+## 📫 Let's Connect!
 
 <p align="center">
   <a href="mailto:sonu.maltiyar.004@gmail.com">
@@ -95,7 +98,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats & Streaks</h2>
+## 📊 GitHub Stats & Streaks
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SonuMaltiyar&show_icons=true&theme=radical" width="400"/>
@@ -104,7 +107,7 @@
 
 ---
 
-<h2 align="center">🎨 Fun Fact</h2>
+## 🎨 Fun Fact
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
